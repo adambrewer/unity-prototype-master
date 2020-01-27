@@ -13,6 +13,7 @@ TagManager:
   - asteroid3
   - asteroidLargePos
   - asteroid2Pos
+  - saucer
   layers:
   - Default
   - TransparentFX
